@@ -1,5 +1,7 @@
 "hello welcome to the session"
 
-"new chatbot mechanism need to added"
+"added new chatbot capability"
 
 "new user authentication added"
+
+"i am try to create a merge conflict"
